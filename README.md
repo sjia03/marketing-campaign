@@ -1,4 +1,4 @@
-# customer-response-prediction
+# marketing-campaign-prediction
 
 In this project, I delve into predictive analytics within the retail domain. The goal is to forecast customer engagement with marketing campaigns, a crucial aspect for enhancing the effectiveness of promotional strategies in a grocery store setting.
 
